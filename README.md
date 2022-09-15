@@ -1,5 +1,5 @@
 # SnapShotApp
-A lightweight application that takes a snapshot to copy images to file or clipboard from all or part of your PC screen. It's a crude application through.
+A lightweight application that takes a snapshot to copy images to file or clipboard from all or part of your PC screen. It's a crude application though.
 Feel free to make meaningful changes to it.<br><br>
 ## How it works
 
