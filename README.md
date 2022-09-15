@@ -1,6 +1,10 @@
 # SnapShotApp
 A lightweight application that takes a snapshot to copy images to file or clipboard from all or part of your PC screen. It's a crude application though.
 Feel free to make meaningful changes to it.<br><br>
+
+## Features Added
+- A countdown timer was added.
+- A funtion that minimizes an application when a certain condition is met.
 ## How it works
 
 It employes the use of a virtual keyboard function that automatically presses the key combination for the screenshot, and saves it in the default windows folders.
