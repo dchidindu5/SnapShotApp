@@ -61,6 +61,8 @@ int main(){
 				Sleep(1000);
 				cout << '\r';
 				
+				
+		// once the timer counts down to 1, the application interface minimizes.
 				if (sec == 1){
 				
       ShowWindow(GetConsoleWindow(), SW_MINIMIZE);
